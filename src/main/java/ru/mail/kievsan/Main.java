@@ -15,7 +15,7 @@ public class Main {
 
     static final String API_URL = "https://api.weather.yandex.ru/v2/forecast";
     static final String ACCESS_HEADER = "X-Yandex-Weather-Key";
-    static final String ACCESS_KEY = "b4673ae5-51a4-47ef-8348-9df62a0a28c9";
+    static final String ACCESS_KEY = "your-key";
     static final String ERR = "Error HTTP request";
     static final Gson GSON = new Gson();
 
